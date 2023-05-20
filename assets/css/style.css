@@ -1,0 +1,71 @@
+@font-face {
+    font-family: Inter;
+    src: url(..//../fonts/Inter-Regular.ttf)
+}
+
+.blue {
+    Width: 625px;
+    Height: 625px;
+    background: #2321AF;
+    border-radius: 61px;
+}
+
+.text h3 {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+
+    color: #FFFFFF;
+}
+
+.celsius {
+    width: 476px;
+    height: 69px;
+    background: #FFFFFF;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #B0AAAA;
+    padding-left: 30px;
+}
+
+.text2 p {
+    Font: Inter;
+    font-weight: 700;
+    font-Size: 16px;
+    Line-height: 19.36px;
+    color: #FFFFFF;
+}
+
+.text2 {
+    margin-top: 41px;
+}
+
+.button-div {
+    padding-top: 71px;
+
+}
+
+.button {
+    width: 390px;
+    height: 55px;
+    border: none;
+    background: #299318;
+    border-radius: 20px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+
+}
